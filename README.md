@@ -20,7 +20,7 @@
 莒南方立石材厂：[hongshayanjg.com](http://hongshayanjg.com) 
 [preview](https://github.com/alonesky0315/cases/raw/master/images/hongshayanjg.com.jpg?raw=true)   
 多贝电子商务(车管家)：[boyueguoji.cn](http://boyueguoji.cn) 
-[preview](https://github.com/alonesky0315/cases/raw/master/images/boyueguoji.cn.jpg?raw=true)     
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wap/boyueguoji.cn.jpg?raw=true)     
 丽人坊美业：[lrfmy.com](http://lrfmy.com/wap) 
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wap/lrfmy.com_wap.jpg?raw=true)   
 临沂鑫华传媒有限公司(PC+WAP)：[lyxhcm.com](http://lyxhcm.com) 
