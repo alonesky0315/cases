@@ -31,7 +31,7 @@
 嘉捷运输(PC)：[jiajieys.com](http://jiajieys.com)  [preview](https://github.com/alonesky0315/cases/raw/master/images/jiajieys.com.jpg?raw=true)       
 山东原鑫鲁丰塑料包装有限公司(PC+WAP)：[sdyxlf.com](http://sdyxlf.com)  [preview](https://github.com/alonesky0315/cases/raw/master/images/sdyxlf.com.jpg?raw=true)   [preview](https://github.com/alonesky0315/cases/raw/master/images/wap/sdyxlf.com_wap.jpg?raw=true)    
 巨森木业(欧派小肥猫)：[opxcat.com](http://opxcat.com)  [preview](https://github.com/alonesky0315/cases/raw/master/images/opxcat.com.jpg?raw=true)    
-京唐艺兴(PC+WAP)：[jtyxbj.com](http://jtyxbj.com)  [preview](https://github.com/alonesky0315/cases/raw/master/images/jtyxbj.com.jpg?raw=true)[preview](https://github.com/alonesky0315/cases/raw/master/images/wap/jtyxbj.com_wap.jpg?raw=true)    
+京唐艺兴(PC+WAP)：[jtyxbj.com](http://jtyxbj.com)  [preview](https://github.com/alonesky0315/cases/raw/master/images/jtyxbj.com.jpg?raw=true)  [preview](https://github.com/alonesky0315/cases/raw/master/images/wap/jtyxbj.com_wap.jpg?raw=true)    
 罗庄区检察院(PC+APP)：[wj.linyimobi.com](http://wj.linyimobi.com)  [preview](https://github.com/alonesky0315/cases/raw/master/images/luojian.zip?raw=true)    
 ****** 
 #### 手机网站案例
