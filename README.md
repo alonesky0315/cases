@@ -1,4 +1,4 @@
-#### 电脑网站案例
+#### 网站案例
 ******
 升艺隆装饰：[chinasyl.com](http://chinasyl.com) 
 [preview](https://github.com/alonesky0315/cases/raw/master/images/chinasyl.com.jpg?raw=true)
@@ -124,6 +124,9 @@ ev新能源：[sdwyc.com](http://sdwyc.com)
 临沂盛和环境技术有限公司(会员功能)：[lyshenghe.com](http://lyshenghe.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/lyshenghe.com.jpg?raw=true)
 
+****** 
+#### 小程序案例
+******
 甄跑(临沂)科技有限责任公司：[zhenpao.top](http://zhenpao.top)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/zhenpao.top.jpg?raw=true)
 
@@ -133,10 +136,4 @@ ev新能源：[sdwyc.com](http://sdwyc.com)
 山东倍管用软件科技有限公司小程序：[soukuaixiu.com](http://soukuaixiu.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/soukuaixiu.com.jpg?raw=true)
 
-****** 
-#### 手机网站案例
-******
-******
-#### 小程序案例
-******
 ******
