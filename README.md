@@ -19,7 +19,7 @@
 莒南方立石材厂：[hongshayanjg.com](http://hongshayanjg.com)  [preview](https://github.com/alonesky0315/cases/raw/master/images/hongshayanjg.com.jpg?raw=true)     
 多贝电子商务(车管家)：[boyueguoji.cn](http://boyueguoji.cn)  [preview](https://github.com/alonesky0315/cases/raw/master/images/boyueguoji.cn.jpg?raw=true)     
 丽人坊美业：[lrfmy.com_wap](http://lrfmy.com_wap)  [preview](https://github.com/alonesky0315/cases/raw/master/images/wap/lrfmy.com_wap.jpg?raw=true)     
-临沂鑫华传媒有限公司(PC+WAP)：[lyxhcm.com](http://lyxhcm.com)  [preview](https://github.com/alonesky0315/cases/raw/master/images/lyxhcm.com.jpg?raw=true)[preview](https://github.com/alonesky0315/cases/raw/master/images/wap/lyxhcm.com_wap.jpg?raw=true)    
+临沂鑫华传媒有限公司(PC+WAP)：[lyxhcm.com](http://lyxhcm.com)  [preview](https://github.com/alonesky0315/cases/raw/master/images/lyxhcm.com.jpg?raw=true)  [preview](https://github.com/alonesky0315/cases/raw/master/images/wap/lyxhcm.com_wap.jpg?raw=true)    
 顺风锁具：[junrenkaisuo.com_wap](http://junrenkaisuo.com_wap)  [preview](https://github.com/alonesky0315/cases/raw/master/images/wap/junrenkaisuo.com_wap.jpg?raw=true)     
 三三机械(PC+Wap)：[sansanjixie-china.com](http://sansanjixie-china.com)  [preview](https://github.com/alonesky0315/cases/raw/master/images/sansanjixie-china.com.jpg?raw=true)  [preview](https://github.com/alonesky0315/cases/raw/master/images/wap/sansanjixie-china.com_wap.jpg?raw=true)     
 山东巨森木业有限公司：[opimeajd.com](http://opimeajd.com)  [preview](https://github.com/alonesky0315/cases/raw/master/images/opimeajd.com.jpg?raw=true)   
