@@ -83,9 +83,7 @@
 
 山东星尔电子科技有限公司(PC+WAP)：[sdxinger.com](http://sdxinger.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/sdxinger.com.jpg?raw=true)
-
-山东追光电子商务有限公司：[amaigou.com](http://amaigou.com)
-[preview](https://github.com/alonesky0315/cases/raw/master/images/amaigou.com.jpg?raw=true)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wap/sdxinger.com_wap.jpg?raw=true)
 
 天元(临沂)文化传媒有限公司：[wx.cntywhcm.com](http://wx.cntywhcm.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wap/wx.cntywhcm.com.jpg?raw=true)
@@ -103,10 +101,11 @@
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wap/juzhouyuan.com_wap.jpg?raw=true)
 
 鸿谱琴行：[small.hongpuqinhang.com](http://small.hongpuqinhang.com)
-[preview](https://github.com/alonesky0315/cases/raw/master/images/small.hongpuqinhang.com.jpg?raw=true)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wap/small.hongpuqinhang.com.jpg?raw=true)
 
 ev新能源：[sdwyc.com](http://sdwyc.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/sdwyc.com.jpg?raw=true)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wap/sdwyc.com_wap.jpg?raw=true)
 
 临沂东立塑胶建材有限公司：[pe01.cn](http://pe01.cn)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/pe01.cn.jpg?raw=true)
@@ -114,24 +113,25 @@ ev新能源：[sdwyc.com](http://sdwyc.com)
 
 临沂中石油昆仑能源有限公司：[lyklny.com](http://lyklny.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/lyklny.com.jpg?raw=true)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wap/lyklny.com_wap.jpg?raw=true)
 
 临沂市同安母婴用品有限公司：[shouyan.top](http://shouyan.top)
-[preview](https://github.com/alonesky0315/cases/raw/master/images/shouyan.top.jpg?raw=true)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wap/shouyan.top.jpg?raw=true)
 
 山东桂枝堂健康管理有限公司：[linmu.539360.com](http://linmu.539360.com)
-[preview](https://github.com/alonesky0315/cases/raw/master/images/linmu.539360.com.jpg?raw=true)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wap/linmu.539360.com.jpg?raw=true)
 
 临沂盛和环境技术有限公司(会员功能)：[lyshenghe.com](http://lyshenghe.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/lyshenghe.com.jpg?raw=true)
 
 甄跑(临沂)科技有限责任公司：[zhenpao.top](http://zhenpao.top)
-[preview](https://github.com/alonesky0315/cases/raw/master/images/zhenpao.top.jpg?raw=true)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/zhenpao.top.jpg?raw=true)
 
 临沂市绿康胶粘剂有限公司小程序：[small.lvkang888.com](http://small.lvkang888.com)
-[preview](https://github.com/alonesky0315/cases/raw/master/images/small.lvkang888.com.jpg?raw=true)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/small.lvkang888.com.jpg?raw=true)
 
 山东倍管用软件科技有限公司小程序：[soukuaixiu.com](http://soukuaixiu.com)
-[preview](https://github.com/alonesky0315/cases/raw/master/images/soukuaixiu.com.jpg?raw=true)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/soukuaixiu.com.jpg?raw=true)
 
 ****** 
 #### 手机网站案例
