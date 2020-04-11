@@ -123,8 +123,7 @@ ev新能源：[sdwyc.com](http://sdwyc.com)
 
 临沂盛和环境技术有限公司(会员功能)：[lyshenghe.com](http://lyshenghe.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/lyshenghe.com.jpg?raw=true)
-
-****** 
+ 
 #### 小程序案例
 ******
 甄跑(临沂)科技有限责任公司：[zhenpao.top](http://zhenpao.top)
@@ -135,5 +134,3 @@ ev新能源：[sdwyc.com](http://sdwyc.com)
 
 山东倍管用软件科技有限公司小程序：[soukuaixiu.com](http://soukuaixiu.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/soukuaixiu.com.jpg?raw=true)
-
-******
