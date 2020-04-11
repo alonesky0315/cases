@@ -83,14 +83,13 @@
 
 山东星尔电子科技有限公司(PC+WAP)：[sdxinger.com](http://sdxinger.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/sdxinger.com.jpg?raw=true)
-[preview](https://github.com/alonesky0315/cases/raw/master/images/wap/sdxinger.com_wap.jpg?raw=true)
 
 天元(临沂)文化传媒有限公司：[wx.cntywhcm.com](http://wx.cntywhcm.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wap/wx.cntywhcm.com.jpg?raw=true)
 
-山东明华实业有限公司：[minghuashiye.cc](http://minghuashiye.cc)
-[preview](https://github.com/alonesky0315/cases/raw/master/images/minghuashiye.cc.jpg?raw=true)
-[preview](https://github.com/alonesky0315/cases/raw/master/images/wap/minghuashiye.cc.jpg?raw=true)
+山东明华实业有限公司：[minghuashiye.com](http://minghuashiye.com)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/minghuashiye.com.jpg?raw=true)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wap/minghuashiye.com_wap.jpg?raw=true)
 
 嵊州市欧川厨卫电器有限公司：[shop.eucanchina.com](http://shop.eucanchina.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/shop.eucanchina.com.jpg?raw=true)
@@ -115,14 +114,9 @@ ev新能源：[sdwyc.com](http://sdwyc.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/lyklny.com.jpg?raw=true)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wap/lyklny.com_wap.jpg?raw=true)
 
-临沂市同安母婴用品有限公司：[shouyan.top](http://shouyan.top)
-[preview](https://github.com/alonesky0315/cases/raw/master/images/wap/shouyan.top.jpg?raw=true)
-
 山东桂枝堂健康管理有限公司：[linmu.539360.com](http://linmu.539360.com)
-[preview](https://github.com/alonesky0315/cases/raw/master/images/wap/linmu.539360.com.jpg?raw=true)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wap/linmu.539360.com_wap.jpg?raw=true)
 
-临沂盛和环境技术有限公司(会员功能)：[lyshenghe.com](http://lyshenghe.com)
-[preview](https://github.com/alonesky0315/cases/raw/master/images/lyshenghe.com.jpg?raw=true)
  
 #### 小程序案例
 ******
