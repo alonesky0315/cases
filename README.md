@@ -128,3 +128,11 @@ ev新能源：[sdwyc.com](http://sdwyc.com)
 
 山东倍管用软件科技有限公司小程序：[soukuaixiu.com](http://soukuaixiu.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/soukuaixiu.com.jpg?raw=true)
+
+
+山东兰华集团股份有限公司小程序（共享停车）：[park.400539.com](http://park.400539.com)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/park.400539.com.jpg?raw=true)
+
+平邑嘉德置业有限公司小程序（嘉德物业，恒通管家，邑东福邸）：[wuye.sdhengtong.net](http://wuye.sdhengtong.net)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/wuye.sdhengtong.net.jpg?raw=true)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/wuye.sdhengtong.net_staff.jpg?raw=true)
