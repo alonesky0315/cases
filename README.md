@@ -120,19 +120,60 @@ ev新能源：[sdwyc.com](http://sdwyc.com)
  
 #### 小程序案例
 ******
-甄跑(临沂)科技有限责任公司：[zhenpao.top](http://zhenpao.top)
+甄跑(临沂)科技有限责任公司：[zhenpao.top](https://zhenpao.top)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/zhenpao.top.jpg?raw=true)
 
-临沂市绿康胶粘剂有限公司小程序：[small.lvkang888.com](http://small.lvkang888.com)
+临沂市绿康胶粘剂有限公司小程序：[small.lvkang888.com](https://small.lvkang888.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/small.lvkang888.com.jpg?raw=true)
 
-山东倍管用软件科技有限公司小程序：[soukuaixiu.com](http://soukuaixiu.com)
+山东倍管用软件科技有限公司小程序：[soukuaixiu.com](https://soukuaixiu.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/soukuaixiu.com.jpg?raw=true)
 
 
-山东兰华集团股份有限公司小程序（共享停车）：[park.400539.com](http://park.400539.com)
+山东兰华集团股份有限公司小程序（共享停车）：[park.400539.com](https://park.400539.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/park.400539.com.jpg?raw=true)
 
-平邑嘉德置业有限公司小程序（嘉德物业，恒通管家，邑东福邸）：[wuye.sdhengtong.net](http://wuye.sdhengtong.net)
+平邑嘉德置业有限公司小程序（嘉德物业，恒通管家，邑东福邸）：[wuye.sdhengtong.net](https://wuye.sdhengtong.net)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/wuye.sdhengtong.net.jpg?raw=true)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/wuye.sdhengtong.net_staff.jpg?raw=true)
+
+公司内部小程序（PK助手）：[pk.400539.com](https://pk.400539.com)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/pk.400539.com_1.jpg?raw=true)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/pk.400539.com_2.jpg?raw=true)
+
+青岛正海之星新材料科技有限公司小程序（正海之星）：[wxapp.zhenghaizhixing.com](https://wxapp.zhenghaizhixing.com)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/wxapp.zhenghaizhixing.com.jpg?raw=true)
+
+罗庄区人民检察院小程序+APP（心萌法学园）：[wj.linyimobi.com](https://wj.linyimobi.com)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/wj.linyimobi.com_2.jpg?raw=true)
+
+
+#### APP案例
+******
+山东益智新教育科技有限公司APP（康汇益智）：[cnyizhixin.com](https://cnyizhixin.com)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/app/cnyizhixin.com.jpg?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
