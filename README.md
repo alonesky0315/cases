@@ -123,6 +123,9 @@ ev新能源: [sdwyc.com](http://sdwyc.com)
 重庆卿之美网络科技有限公司(PC+WAP dede二开添加筛选): [020ar.com](http://020ar.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/web/020ar.com.jpg?raw=true)
 
+人民中国杂志社: [pcjeuni.com](http://pcjeuni.com)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/pcjeuni.com.jpg?raw=true)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wap/pcjeuni.com_wap.jpg?raw=true)
  
 #### 小程序案例
 ******
@@ -151,7 +154,11 @@ ev新能源: [sdwyc.com](http://sdwyc.com)
 
 山东天行健通用航空有限公司小程序(天行健通航): [tianxing.400539.com](https://tianxing.400539.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/tianxing.400539.com.jpg?raw=true)
+https://raw.fastgit.org/alonesky0315/cases/master/images/wxapp/tianxing.400539.com.jpg
 
+湖南天劲制药有限责任公司小程序(天天有劲): [wxapp.hntianjin.com](https://wxapp.hntianjin.com)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/wxapp.hntianjin.com.jpg?raw=true)
+https://raw.fastgit.org/alonesky0315/cases/master/images/wxapp/wxapp.hntianjin.com.jpg
 
 #### APP案例
 ******
