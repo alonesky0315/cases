@@ -105,7 +105,7 @@
 鸿谱琴行: [small.hongpuqinhang.com](http://small.hongpuqinhang.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wap/small.hongpuqinhang.com.jpg?raw=true)
 
-ev新能源: [sdwyc.com](http://sdwyc.com)
+EV新能源: [sdwyc.com](http://sdwyc.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/web/sdwyc.com.jpg?raw=true)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wap/sdwyc.com_wap.jpg?raw=true)
 
@@ -160,6 +160,12 @@ ev新能源: [sdwyc.com](http://sdwyc.com)
 
 湖南天劲制药有限责任公司小程序(天天有劲): [wxapp.hntianjin.com](https://wxapp.hntianjin.com)
 [preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/wxapp.hntianjin.com.jpg?raw=true)
+
+援爱网络信息科技（山东）股份有限公司小程序(援爱同城): [wxapp.whctwl.cn](https://wxapp.whctwl.cn)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/wxapp.whctwl.cn.jpg?raw=true)
+
+山东禾原生态农业有限公司小程序(泉口香): [quankouxiang.com](https://quankouxiang.com)
+[preview](https://github.com/alonesky0315/cases/raw/master/images/wxapp/quankouxiang.com.jpg?raw=true)
 
 #### APP案例
 ******
