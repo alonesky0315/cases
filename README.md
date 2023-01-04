@@ -138,7 +138,7 @@ EV新能源: [sdwyc.com](http://sdwyc.com)
 
 山东吉祥装饰建材有限公司: [alu-fame.com](http://alu-fame.com)
  [preview](https://github.com/alonesky0315/cases/blob/master/images/web/alu-fame.com.jpg)
- [preview](https://github.com/alonesky0315/cases/blob/master/images/web/alu-fame.com_wap.jpg)
+ [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/alu-fame.com_wap.jpg)
 
 山东坤益机械设备有限公司(PC+WAP): [kunyijixie.com](http://kunyijixie.com)
  [preview](https://github.com/alonesky0315/cases/blob/master/images/web/kunyijixie.com.jpg)
