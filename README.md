@@ -129,7 +129,21 @@ EV新能源: [sdwyc.com](http://sdwyc.com)
  
 金彭十大品牌: [brand.jpddc.com](http://brand.jpddc.com)
  [preview](https://github.com/alonesky0315/cases/blob/master/images/web/brand.jpddc.com.jpg)
- 
+
+山东山住餐饮管理有限公司产品页: [shanzhucha.com](http://shanzhucha.com)
+ [preview](https://github.com/alonesky0315/cases/blob/master/images/web/shanzhucha.com_product.jpg)
+
+山重建机有限公司产品页: [strongest.cn](http://strongest.cn)
+ [preview](https://github.com/alonesky0315/cases/blob/master/images/web/strongest.cn_product.jpg)
+
+山东吉祥装饰建材有限公司: [alu-fame.com](http://alu-fame.com)
+ [preview](https://github.com/alonesky0315/cases/blob/master/images/web/alu-fame.com.jpg)
+ [preview](https://github.com/alonesky0315/cases/blob/master/images/web/alu-fame.com_wap.jpg)
+
+山东坤益机械设备有限公司(PC+WAP): [kunyijixie.com](http://kunyijixie.com)
+ [preview](https://github.com/alonesky0315/cases/blob/master/images/web/kunyijixie.com.jpg)
+ [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/kunyijixie.com_wap.jpg)
+
 #### 小程序案例
 ******
 甄跑(临沂)科技有限责任公司: [zhenpao.top](https://zhenpao.top)
