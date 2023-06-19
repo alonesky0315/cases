@@ -3,7 +3,7 @@
 升艺隆装饰: [chinasyl.com](http://chinasyl.com) 
 [preview](https://github.com/alonesky0315/cases/blob/master/images/web/chinasyl.com.jpg)
 
-山东鑫昊展览展示有限公司: [cnxhzlzs.com](http://cnxhzlzs.com) 
+山东鑫昊展览展示有限公司(PC+WAP): [cnxhzlzs.com](http://cnxhzlzs.com) 
 [preview](https://github.com/alonesky0315/cases/blob/master/images/web/cnxhzlzs.com.jpg) 
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/cnxhzlzs.com_wap.jpg)
 
@@ -19,7 +19,7 @@
 临沂市海涵木业有限公司: [haihanmuye.com](http://haihanmuye.com) 
 [preview](https://github.com/alonesky0315/cases/blob/master/images/web/haihanmuye.com.jpg)
 
-恒盛彩虹瓦(WAP): [m.caihongcgw.com](http://m.caihongcgw.com) 
+临沂市罗庄区恒盛彩虹瓦业有限公司(WAP): [m.caihongcgw.com](http://m.caihongcgw.com) 
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/m.caihongcgw.com.jpg)
 
 临沂海业余热(WAP): [lyhaiye.com](http://lyhaiye.com/wap) 
@@ -28,7 +28,7 @@
 莒南方立石材厂: [hongshayanjg.com](http://hongshayanjg.com) 
 [preview](https://github.com/alonesky0315/cases/blob/master/images/web/hongshayanjg.com.jpg)
 
-多贝电子商务(车管家): [boyueguoji.cn](http://boyueguoji.cn) 
+多贝电子商务(车管家)(H5): [boyueguoji.cn](http://boyueguoji.cn) 
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/boyueguoji.cn.jpg)
 
 丽人坊美业: [lrfmy.com](http://lrfmy.com/wap) 
@@ -38,7 +38,7 @@
 [preview](https://github.com/alonesky0315/cases/blob/master/images/web/lyxhcm.com.jpg) 
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/lyxhcm.com_wap.jpg)
 
-顺风锁具: [junrenkaisuo.com](http://junrenkaisuo.com/wap) 
+顺风锁具(WAP): [junrenkaisuo.com](http://junrenkaisuo.com/wap) 
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/junrenkaisuo.com_wap.jpg)
 
 三三机械(PC+WAP): [sansanjixie-china.com](http://sansanjixie-china.com) 
@@ -78,23 +78,23 @@
 [preview](https://github.com/alonesky0315/cases/blob/master/images/web/jtyxbj.com.jpg) 
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/jtyxbj.com_wap.jpg)
 
-罗庄区人民检察院(PC+APP(心萌法学园)+WXAPP(心萌法学园)): [wj.linyimobi.com](http://wj.linyimobi.com) 
+罗庄区人民检察院(PC+APP+WXAPP(心萌法学园)): [wj.linyimobi.com](http://wj.linyimobi.com) 
 [preview](https://github.com/alonesky0315/cases/blob/master/images/web/wj.linyimobi.com.jpg)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/app/wj.linyimobi.com_1.jpg)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wxapp/wj.linyimobi.com_2.jpg)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/app/wj.linyimobi.com_2.jpg)
 
-山东星尔电子科技有限公司(PC+WAP): [sdxinger.com](http://sdxinger.com)
+山东星尔电子科技有限公司(SHOP): [sdxinger.com](http://sdxinger.com)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/web/sdxinger.com.jpg)
 
-天元(临沂)文化传媒有限公司: [wx.cntywhcm.com](http://wx.cntywhcm.com)
+天元(临沂)文化传媒有限公司(SHOP): [wx.cntywhcm.com](http://wx.cntywhcm.com)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/wx.cntywhcm.com.jpg)
 
-山东明华实业有限公司: [minghuashiye.com](http://minghuashiye.com)
+山东明华实业有限公司(SHOP): [minghuashiye.com](http://minghuashiye.com)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/web/minghuashiye.com.jpg)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/minghuashiye.com_wap.jpg)
 
-嵊州市欧川厨卫电器有限公司: [shop.eucanchina.com](http://shop.eucanchina.com)
+嵊州市欧川厨卫电器有限公司(SHOP): [shop.eucanchina.com](http://shop.eucanchina.com)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/web/shop.eucanchina.com.jpg)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/shop.eucanchina.com_wap.jpg)
 
@@ -128,21 +128,33 @@ EV新能源: [sdwyc.com](http://sdwyc.com)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/pcjeuni.com_wap.jpg)
  
 金彭十大品牌: [brand.jpddc.com](http://brand.jpddc.com)
- [preview](https://github.com/alonesky0315/cases/blob/master/images/web/brand.jpddc.com.jpg)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/web/brand.jpddc.com.jpg)
 
 山东山住餐饮管理有限公司产品页: [shanzhucha.com](http://shanzhucha.com)
- [preview](https://github.com/alonesky0315/cases/blob/master/images/web/shanzhucha.com_product.jpg)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/web/shanzhucha.com_product.jpg)
 
 山重建机有限公司产品页: [strongest.cn](http://strongest.cn)
- [preview](https://github.com/alonesky0315/cases/blob/master/images/web/strongest.cn_product.jpg)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/web/strongest.cn_product.jpg)
 
-山东吉祥装饰建材有限公司: [alu-fame.com](http://alu-fame.com)
- [preview](https://github.com/alonesky0315/cases/blob/master/images/web/alu-fame.com.jpg)
- [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/alu-fame.com_wap.jpg)
+山东吉祥装饰建材有限公司(PC+WAP): [alu-fame.com](http://alu-fame.com)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/web/alu-fame.com.jpg)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/wap/alu-fame.com_wap.jpg)
 
 山东坤益机械设备有限公司(PC+WAP): [kunyijixie.com](http://kunyijixie.com)
- [preview](https://github.com/alonesky0315/cases/blob/master/images/web/kunyijixie.com.jpg)
- [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/kunyijixie.com_wap.jpg)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/web/kunyijixie.com.jpg)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/wap/kunyijixie.com_wap.jpg)
+
+临沂市罗庄区恒盛彩虹瓦业有限公司(PC+WAP): [caihongcgw.com](http://caihongcgw.com) 
+[preview](https://github.com/alonesky0315/cases/blob/master/images/pc/caihongcgw.com.jpg)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/wap/caihongcgw.com_wap.jpg)
+
+山东幕道品牌策划有限公司(PC+WAP): [mudaozhanlue.com](http://mudaozhanlue.com) 
+[preview](https://github.com/alonesky0315/cases/blob/master/images/pc/mudaozhanlue.com.jpg)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/wap/mudaozhanlue.com.jpg)
+
+江花集团有限公司(PC+WAP): [jianghuagroup.cn](http://jianghuagroup.cn) 
+[preview](https://github.com/alonesky0315/cases/blob/master/images/pc/jianghuagroup.cn.jpg)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/wap/jianghuagroup.cn_wap.jpg)
 
 #### 小程序案例
 ******
@@ -194,6 +206,7 @@ EV新能源: [sdwyc.com](http://sdwyc.com)
 山东佳佳装网络科技有限公司小程序(佳佳装): [sdjiajiazhuang.com](https://sdjiajiazhuang.com)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wxapp/sdjiajiazhuang.com_user.jpg)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wxapp/sdjiajiazhuang.com_company.jpg)
+
 #### APP案例
 ******
 山东益智新教育科技有限公司APP(康汇益智):[cnyizhixin.com](https://cnyizhixin.com)
@@ -201,27 +214,6 @@ EV新能源: [sdwyc.com](http://sdwyc.com)
 
 山东国鑫网络科技有限公司APP(晟皓易购):[app.guoxinmall.cn](https://app.guoxinmall.cn)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/app/app.guoxinmall.cn.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
