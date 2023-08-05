@@ -156,6 +156,9 @@ EV新能源: [sdwyc.com](http://sdwyc.com)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/pc/jianghuagroup.cn.jpg)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/jianghuagroup.cn_wap.jpg)
 
+临沂市兰山区人民政府柳青街道办事处(WAP): [follow.400539.com](https://follow.400539.com) 
+[preview](https://github.com/alonesky0315/cases/blob/master/images/wap/follow.400539.com.jpg)
+
 #### 小程序案例
 ******
 甄跑(临沂)科技有限责任公司: [zhenpao.top](https://zhenpao.top)
