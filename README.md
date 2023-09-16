@@ -210,6 +210,8 @@ EV新能源: [sdwyc.com](http://sdwyc.com)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wxapp/sdjiajiazhuang.com_user.jpg)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wxapp/sdjiajiazhuang.com_company.jpg)
 
+临沂优菜食品有限公司小程序(优菜甄选): [wxapp.youcaishipin.com](https://wxapp.youcaishipin.com)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/wxapp/wxapp.youcaishipin.com.jpg)
 #### APP案例
 ******
 山东益智新教育科技有限公司APP(康汇益智):[cnyizhixin.com](https://cnyizhixin.com)
@@ -218,7 +220,8 @@ EV新能源: [sdwyc.com](http://sdwyc.com)
 山东国鑫网络科技有限公司APP(晟皓易购):[app.guoxinmall.cn](https://app.guoxinmall.cn)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/app/app.guoxinmall.cn.jpg)
 
-
+临沂衡绪印刷器材有限公司APP(探机侠):[app.tanjixia.com](https://app.tanjixia.com)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/app/app.tanjixia.com.jpg)
 
 
 
