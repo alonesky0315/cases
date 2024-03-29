@@ -150,7 +150,7 @@ EV新能源: [sdwyc.com](http://sdwyc.com)
 
 山东幕道品牌策划有限公司(PC+WAP): [mudaozhanlue.com](http://mudaozhanlue.com) 
 [preview](https://github.com/alonesky0315/cases/blob/master/images/web/mudaozhanlue.com.jpg)
-[preview](https://github.com/alonesky0315/cases/blob/master/images/wap/mudaozhanlue.com.jpg)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/wap/mudaozhanlue.com_wap.jpg)
 
 江花集团有限公司(PC+WAP): [jianghuagroup.cn](http://jianghuagroup.cn) 
 [preview](https://github.com/alonesky0315/cases/blob/master/images/web/jianghuagroup.cn.jpg)
@@ -163,8 +163,8 @@ EV新能源: [sdwyc.com](http://sdwyc.com)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/web/lyyzwcb.com.jpg)
 
 山东春光科技集团股份有限公司(PC+WAP): [cgte.cn](https://cgte.cn) 
-[preview](https://github.com/alonesky0315/cases/blob/master/images/web/cgte.cn)
-[preview](https://github.com/alonesky0315/cases/blob/master/images/wap/cgte.cn)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/web/cgte.cn.jpg)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/wap/cgte.cn.jpg)
 
 #### 小程序案例
 ******
