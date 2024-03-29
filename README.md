@@ -145,15 +145,15 @@ EV新能源: [sdwyc.com](http://sdwyc.com)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/kunyijixie.com_wap.jpg)
 
 临沂市罗庄区恒盛彩虹瓦业有限公司(PC+WAP): [caihongcgw.com](http://caihongcgw.com) 
-[preview](https://github.com/alonesky0315/cases/blob/master/images/pc/caihongcgw.com.jpg)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/web/caihongcgw.com.jpg)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/caihongcgw.com_wap.jpg)
 
 山东幕道品牌策划有限公司(PC+WAP): [mudaozhanlue.com](http://mudaozhanlue.com) 
-[preview](https://github.com/alonesky0315/cases/blob/master/images/pc/mudaozhanlue.com.jpg)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/web/mudaozhanlue.com.jpg)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/mudaozhanlue.com.jpg)
 
 江花集团有限公司(PC+WAP): [jianghuagroup.cn](http://jianghuagroup.cn) 
-[preview](https://github.com/alonesky0315/cases/blob/master/images/pc/jianghuagroup.cn.jpg)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/web/jianghuagroup.cn.jpg)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wap/jianghuagroup.cn_wap.jpg)
 
 临沂市兰山区人民政府柳青街道办事处(WAP): [follow.400539.com](https://follow.400539.com) 
