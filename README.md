@@ -162,9 +162,11 @@ EV新能源: [sdwyc.com](http://sdwyc.com)
 中国邮政临沂市分公司(PC): [lyyzwcb.com](https://lyyzwcb.com) 
 [preview](https://github.com/alonesky0315/cases/blob/master/images/web/lyyzwcb.com.jpg)
 
-山东春光科技集团股份有限公司(PC+WAP): [cgte.cn](https://cgte.cn) 
-[preview](https://github.com/alonesky0315/cases/blob/master/images/web/cgte.cn.jpg)
-[preview](https://github.com/alonesky0315/cases/blob/master/images/wap/cgte.cn.jpg)
+中国邮政临沂市分公司(PC): [lyyzwcb.com](https://lyyzwcb.com) 
+[preview](https://github.com/alonesky0315/cases/blob/master/images/web/lyyzwcb.com.jpg)
+
+山东莱祥机电设备有限公司(PC): [cgte.cn](https://sdlaixiang.com) 
+[preview](https://github.com/alonesky0315/cases/blob/master/images/web/sdlaixiang.com.jpg)
 
 #### 小程序案例
 ******
