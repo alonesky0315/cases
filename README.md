@@ -262,6 +262,13 @@ EV新能源: [sdwyc.com](http://sdwyc.com)
 上海忠农农业科技有限公司: [zhongnong.400539.com](https://zhongnong.400539.com) 
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wxapp/zhongnong.400539.com.jpg)
 
+山东伴伴尼电子科技有限公司: [banbanni.400539.com](https://banbanni.400539.com) 
+[preview](https://github.com/alonesky0315/cases/blob/master/images/wxapp/banbanni.400539.com.jpg)
+
+临沂高新区鲜到家百货商贸有限公司: [xiandaojia.400539.com](https://xiandaojia.400539.com) 
+[preview](https://github.com/alonesky0315/cases/blob/master/images/wxapp/xiandaojia.400539.com.jpg)
+
+
 #### APP案例
 ******
 山东益智新教育科技有限公司APP(康汇益智):[cnyizhixin.com](https://cnyizhixin.com)
