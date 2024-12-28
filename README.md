@@ -172,8 +172,19 @@ EV新能源: [sdwyc.com](http://sdwyc.com)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/web/cgte.cn.jpg)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/web/cgte.cn.jpg)
 
-山东界群建筑工程有限公司: [jiequn.400539](https://jiequn.400539)
+山东界群建筑工程有限公司(PC): [jiequn.400539](https://jiequn.400539)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/web/jiequn.400539.jpg)
+
+临沂市兰山区人民检察院(WAP): [monitoring.400539.com](https://monitoring.400539.com)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/web/monitoring.400539.com.jpg)
+
+山东沂蒙交通投资发展集团有限公司(WAP): [transportation.400539.com](https://transportation.400539.com)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/wap/transportation.400539.com.jpg)
+
+天津泛亚天影文化传媒有限公司(PC+WAP): [zgspanw.com](https://zgspanw.com)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/web/zgspanw.com.jpg)
+[preview](https://github.com/alonesky0315/cases/blob/master/images/wap/zgspanw.com.jpg)
+
 
 #### 小程序案例
 ******
@@ -238,6 +249,18 @@ EV新能源: [sdwyc.com](http://sdwyc.com)
 中临商城（山东）有限公司: [zhonglinshangcheng.com](https://zhonglinshangcheng.com) 
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wxapp/wxapp.zhonglinshangcheng.com_user.jpg)
 [preview](https://github.com/alonesky0315/cases/blob/master/images/wxapp/wxapp.zhonglinshangcheng.com_shop.jpg)
+
+临沂晶硕光电科技有限公司: [jingshuo.400539.com](https://jingshuo.400539.com) 
+[preview](https://github.com/alonesky0315/cases/blob/master/images/wxapp/jingshuo.400539.com.jpg)
+
+山东天旭信息网络科技有限责任公司: [tianxu.400539.com](https://tianxu.400539.com) 
+[preview](https://github.com/alonesky0315/cases/blob/master/images/wxapp/tianxu.400539.com.jpg)
+
+山东盟冠电子商务有限公司: [gelin.400539.com](https://gelin.400539.com) 
+[preview](https://github.com/alonesky0315/cases/blob/master/images/wxapp/gelin.400539.com.jpg)
+
+上海忠农农业科技有限公司: [zhongnong.400539.com](https://zhongnong.400539.com) 
+[preview](https://github.com/alonesky0315/cases/blob/master/images/wxapp/zhongnong.400539.com.jpg)
 
 #### APP案例
 ******
